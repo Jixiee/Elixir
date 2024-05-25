@@ -3,12 +3,12 @@
 Welcome to my Elixir learning repository! This repository is dedicated to documenting my journey as I learn Elixir, covering topics from basic to intermediate to advanced. Feel free to use this repository as a reference for your own Elixir learning journey.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Basic Concepts](#basic-concepts)
-    - [Installation](#installation)
-    - [Basic Syntax](#basic-syntax)
-    - [Data Types](#data-types)
-    - [Pattern Matching](#pattern-matching)
+1. [Introduction](Notes/Introduction.md)
+2. [Basic Concepts](Notes/Basic%20Concepts)
+    - [Installation](Notes/Basic%20Concepts/Installation.md)
+    - [Basic Syntax](Notes/Basic%20Concepts/Basic_Syntax.md)
+    - [Data Types](Notes/Basic%20Concepts/Data_Types.md)
+    - [Pattern Matching](Notes/Basic%20Concepts/Pattern_Matching.md)
     - [Control Structures](#control-structures)
 3. [Intermediate Concepts](#intermediate-concepts)
     - [Functions](#functions)
