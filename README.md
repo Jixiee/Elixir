@@ -9,7 +9,7 @@ Welcome to my Elixir learning repository! This repository is dedicated to docume
     - [Basic Syntax](Notes/Basic%20Concepts/Basic_Syntax.md)
     - [Data Types](Notes/Basic%20Concepts/Data_Types.md)
     - [Pattern Matching](Notes/Basic%20Concepts/Pattern_Matching.md)
-    - [Control Structures](#control-structures)
+    - [Control Structures](Notes/BasicConcepts/ControlStructures.md)
 3. [Intermediate Concepts](#intermediate-concepts)
     - [Functions](#functions)
     - [Modules](#modules)
